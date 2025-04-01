@@ -2,7 +2,13 @@
 
 ## Overview
 
-TODO: Write a project description
+In this porject we used aws to help create the front end of an inventory helper.
+
+## Running
+
+To run, download live server extension, Right click on html, and then you should see the webpage.
+
+To use simply push the buttons that say load, delete,add
 
 ## Sources and Credits
 
